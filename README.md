@@ -19,12 +19,5 @@ Click the buttons below to download the latest release directly without visiting
 | 🛜 **Releases Section** |[**📥 View All Releases**](https://github.com/ablibrary-net/AhlulbaytLibrary-DesktopEdition-Version4/releases) |
 ---
 
-## 📅 Release Versions & Downloads
-
-| Version | Status | Release Date | Win Setup (.exe) | macOS Apple (.dmg) | macOS Intel (.dmg) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **Latest Release** | 🟢 **Stable** | *Automatic* | [Download](https://github.com/ablibrary-net/AhlulbaytLibrary-DesktopEdition-Version4/releases/latest/download/ABLibrarySetup.exe) | [Download](https://github.com/ablibrary-net/AhlulbaytLibrary-DesktopEdition-Version4/releases/latest/download/ABLibrarySetup_osx-arm64.dmg) | [Download](https://github.com/ablibrary-net/AhlulbaytLibrary-DesktopEdition-Version4/releases/latest/download/ABLibrarySetup_osx-x64.dmg) |
-
-
 
 ---
