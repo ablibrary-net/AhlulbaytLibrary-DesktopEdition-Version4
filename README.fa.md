@@ -16,4 +16,4 @@
 | 🪟 **ویندوز (Windows)** | [**📥 دانلود نسخه نصب‌کننده ویندوز (لینک مستقیم)**](https://github.com/ablibrary-net/AhlulbaytLibrary-DesktopEdition-Version4/releases/latest/download/ABLibrarySetup.exe) |
 | 🍎 **مک (Apple Silicon - M1/M2/M3)** | [**📥 دانلود نسخه مک - پردازنده‌های اپل (لینک مستقیم)**](https://github.com/ablibrary-net/AhlulbaytLibrary-DesktopEdition-Version4/releases/latest/download/ABLibrarySetup_osx-arm64.dmg) |
 | 💻 **مک (Intel Processor - پردازنده‌های قدیمی)** | [**📥 دانلود نسخه مک - پردازنده‌های اینتل (لینک مستقیم)**](https://github.com/ablibrary-net/AhlulbaytLibrary-DesktopEdition-Version4/releases/latest/download/ABLibrarySetup_osx-x64.dmg) |
-| 🛜 **بخش انتشارها (Releases)** | [**📥 مشاهده همه نسخه‌ها**](https://github.com/ablibrary-net/AhlulbaytLibrary-DesktopEdition-Version4/releases) |
+| 🛜 **بخش انتشارها** | [**📥 مشاهده همه نسخه‌ها**](https://github.com/ablibrary-net/AhlulbaytLibrary-DesktopEdition-Version4/releases) |
