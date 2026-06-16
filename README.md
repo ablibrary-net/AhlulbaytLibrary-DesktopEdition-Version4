@@ -1,7 +1,7 @@
 # Ahlulbayt Library - Desktop Edition (Version 4)
 
 Choose Language / انتخاب زبان / اختر اللغة:
-🌐 **[English](README.md)** | 🇮🇷 **[فارسی (Persian)](README.fa.md)** | 🇸🇦 **[العربية (Arabic)](README.ar.md)**
+🌐 **[English](README.md)** |  **[فارسی (Persian)](README.fa.md)** |  **[العربية (Arabic)](README.ar.md)**
 
 ---
 
