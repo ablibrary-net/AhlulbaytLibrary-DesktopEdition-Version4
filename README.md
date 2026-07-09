@@ -5,7 +5,7 @@ Choose Language / انتخاب زبان / اختر اللغة:
 
 ---
 
-Ahlulbayt Library is a premium desktop application designed for searching, studying, and referencing Islamic texts and resources.
+Ahlulbayt (as) Library is a comprehensive Islamic library containing thousands of books across all Islamic schools of thought. Download, read, and search seamlessly.
 
 ## 🚀 Direct Download (Latest Version)
 
